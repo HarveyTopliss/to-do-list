@@ -38,6 +38,7 @@ h1 {
 
 #task-input {
   width: 50%;
+  min-width: 410px;
   padding: 0.3em;
   border-radius: 0.25em;
   border-color: white;
@@ -73,6 +74,7 @@ h1 {
 
 .task-item {
   width: 50%;
+  min-width: 435px;
   margin-top: 1em;
   padding: 0.5em;
   border: solid 0.1em blue;
